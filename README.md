@@ -1,6 +1,7 @@
 * * *
 **News**
-- 11/2023 We will be presenting a poster, entitled ["FlexCap: Software Compartmentalisation Trade-Offs with Hardware Capabilities"](https://github.com/olivierpierre/project-flexcap/blob/master/assets/FlexCap_Poster.pdf) at [DSbD All Hands](https://www.dsbd.tech/event/dsbd-all-hands-2/).
+- 04/2024 We will present a talk and a <a href="assets/cheritech24-poster.pdf">poster</a> at [CheriTech'24](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/workshops/2024cheritech/).
+- 11/2023 We will be presenting a poster, entitled <a href="assets/FlexCap_Poster.pdf">"FlexCap: Software Compartmentalisation Trade-Offs with Hardware Capabilities"</a> at [DSbD All Hands](https://www.dsbd.tech/event/dsbd-all-hands-2/).
 - 10/2023 We have made available the source for FlexOS on Morello and the applications run in our paper *Software Compartmentalization Trade-Offs with Hardware Capabilities* [here](https://github.com/jkressel/flexos-morello-hybrid).
 - 09/2023 Our paper entitled "[Software Compartmentalization Trade-Offs with Hardware Capabilities](https://arxiv.org/abs/2309.11332)" is accepted in [PLOS'23](https://plos-workshop.org/2023/).
 - 03/2023 We gave a talk at [CheriTech'23](https://www.dcs.gla.ac.uk/~jsinger/cheritech23.html) outlining our research into hybrid Morello compartmentalization with FlexOS, the slides can be found [here](https://github.com/olivierpierre/project-flexcap/blob/master/assets/CheriTech'23_FlexCap_Presentation.pdf).
